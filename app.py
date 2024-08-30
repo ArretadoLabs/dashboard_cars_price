@@ -6,7 +6,7 @@ import plotly.express as px
 
 #page configuration
 # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
-st.set_page_config(page_title="Car Stock Dashboard", page_icon=":mechanical_arm:", layout="wide")
+st.set_page_config(page_title="Painel de dashboard de carros", page_icon=":mechanical_arm:", layout="wide")
 
 #read in data
 @st.cache_data
